@@ -9,7 +9,7 @@ Images of APP:
 <img src="https://github.com/anujkumar070/NewsAPP/blob/main/Images%20of%20APP/Tech%20News%20-%20Light%20Mode.JPG">
 
 # NOTE
-<h5>The APP uses NewsAPI to fetch news. NewsAPI requires subsription for deployment so this app works in Localhost for free.</h5>
+<h5>The APP uses NewsAPI to fetch news. NewsAPI requires subsription for deployment so this app works for free only in Localhost. If you want to deploy the website then subscription is required from NewsAPI.</h5>
 <h5>If you want to deploy this app, get a new API key from NEWSAPI , fork this project in your device and store the API Key in env.local file</h5>
 
 # Getting Started with Create React App
